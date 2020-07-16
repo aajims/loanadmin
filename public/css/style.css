@@ -1,0 +1,14 @@
+.error {
+    color: rgb(248, 9, 9);
+    font-weight: normal!important;
+    padding-top: 1%;
+}
+.select2-container .select2-selection--single{
+    height: 37px!important;
+}
+.img-foto {
+    width: 90px;
+}
+.sukses{
+    margin-bottom: 0rem;
+}
