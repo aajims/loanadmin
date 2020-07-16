@@ -9,16 +9,16 @@
 
 ## Installing Laravel
 
-First install Git there
-Then install the exe composer there
-git clone https://github.com/aajims/loanadmin.git projectname
-cd projectname
-composer install
-php artisan key:generate
-Create a database and inform .env
-php artisan migrate to create and populate tables
-php artisan vendor:publish to publish filemanager
-php artisan serve to start the app on http://127.0.0.1:8000/
+- First install Git there
+- Then install the exe composer there
+- git clone https://github.com/aajims/loanadmin.git projectname
+- cd projectname
+- composer install
+- php artisan key:generate
+- Create a database and inform .env
+- php artisan migrate to create and populate tables
+- php artisan vendor:publish to publish filemanager
+- php artisan serve to start the app on http://127.0.0.1:8000/
 
 ## License
 
